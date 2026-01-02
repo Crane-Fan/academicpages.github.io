@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my.png"
   name             : "Zhihe Fan"
   pronouns         : # example: "she/her"  
   bio              : "A MS student in Tianjin University of Sports now,researching in Collaborative Learning"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Tianjin University of Sports"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=HlLyfcYAAAAJ&scilu=&scisig=AKwN59oAAAAAaVdYeR9o2ADZu_xL7GAwUZm8xDY&gmla=AElLoL2c1YebO959oP1NY5Or8j85AapZWIq4iBNzfgsu0ubj_ROTnauMZ0-nugdn8u1nXRd2KiE3FigTR8z5-GpV5Y8wZ1baKXHg7xY&sciund=3717999699746099281"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-6971-5594"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
